@@ -7,7 +7,7 @@
 //
 
 #import "F3HViewController.h"
-
+#import "RCTRootView.h"
 #import "F3HNumberTileGameViewController.h"
 
 @interface F3HViewController ()
